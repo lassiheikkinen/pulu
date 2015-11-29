@@ -1,97 +1,92 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>pulu.org</title>
+        <link rel="icon" type="image/png" href="/favicon.png">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
- <title>pulu.org</title>
- 
- <style type="text/css">
+        <style type="text/css">
 
-a:link	         {text-decoration: underline;}
-a:visited	 {text-decoration: underline;}
-a:active	 {text-decoration: underline;}
-a:hover	         {text-decoration: none;}
-p                {font-size: 9px; font-family: verdana; margin-top: 10px;} 
+body {
+    font-family: 'courier';
+    font-weight: bold;
+    margin: 0 10%;
+    background-color: #DCDCDC;
+}
+h2 {
+    margin: 0px 0px 5px 0px;
+    text-align: center;
+    font-size: 36px;
+}
+ul {
+    color: #000;
+    line-height: 150%;
+    font-size: 18px;
+    margin: 40px 30px 0px 15px;
+}
 
- </style>
- <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-</head>
+a:link      {text-decoration: underline;}
+a:visited   {text-decoration: underline;}
+a:active    {text-decoration: underline;}
+a:hover	    {text-decoration: none;}
 
-<body style="margin: 0 20%; background-color: #5d89b5">
+#logo-container {
+    margin-top: 100px;
+    float: left;
+}
+#right-column-container {
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+    max-width: 500px;
+}
+#content-container {
+    padding: 15px 30px 5px 30px;
+    border: 5px solid #000;
+    background-color: #FFF; color: #000;
+}
 
-<div><p style="font-size: 16px; margin-bottom: 15px; letter-spacing: 10px"><b>pulu.org</b></p></div>
+.since          {float: right;}
+.highlighter    {color: red;}
+.footnote       {margin-top: 20px;}
+.copyright,
+.footnote       {font-size: 14px;}
 
-<div><img src="real_pulu.jpg" alt="real pulu.org" style="border: 2px solid #000" /></div>
+.copyright {
+    margin-top: 5px;
+    text-align: right;
+}
+        </style>
 
+    </head>
+    <body>
 
-<div style="margin-left: 50px; margin-top: 15px; padding: 3px; border: 2px solid #000; background-color: #FFF; width: 240px; color: #000;">
-Sites under pulu.org:<br /><br />
-<a style="color: #000" href="/lassi">Lassite</a> - personal page<br />
-<a style="color: #000" href="http://palsta.pulu.org">Pulupalsta</a> - miscellaneous articles<br />
-<a style="color: #000" href="http://www.moposite.com">Moposite</a> - Elasto Mania all around<br />
-</div>
+        <div id="logo-container"><img src="/logo-pigeon.png" alt="pulu.org logo" /></div>
+            <div id="right-column-container">
+                <div id="content-container">
 
+<h2>Active sites under <strong class="highlighter">pulu.org</strong></h2>
+<ul>
+    <li><a href="http://pulu.org/blog/" title="Lassi's personal blog">Applelane</a> <span class="since" title="The site has been running since">2005</span></li>
+    <li><a href="http://pulu.org/lassi/" title="Lassi's personal site">Lassite</a> <span class="since" title="The site has been running since">2000</span></li>
+    <li><a href="http://liikuntoilu.net/" title="API to historical sport exercicing data">Liikuntoilu</a> <span class="since" title="The site has been running since">2006</span></li>
+    <li><a href="http://www.moposite.com/" title="A site dedicated to Elasto Mania game">Moposite</a> <span class="since" title="The site has been running since">2000</span></li>
+    <li><a href="http://unski.pulu.org/onki/" title="Johanna's fishing blog">Onki</a> <span class="since" title="The site has been running since">2009</span></li>
+    <li><a href="http://palsta.pulu.org/" title="Lassi's projects and articles">Pulupalsta</a> <span class="since" title="The site has been running since">2006</span></li>
+    <li><a href="http://rohtologi.pulu.org/" title="Johanna's pharmaceutical blog">Rohtologi</a> <span class="since" title="The site has been running since">2010</span></li>
+    <li><a href="http://ulko-ovimiehet.liikuntoilu.net/" title="Outdoorsmen's sport competition">Ulko-ovimiehet</a> <span class="since" title="The site has been running since">2007</span></li>
+</ul>
 
-<div style="width: 604px;">
-<br />
-  <img src="info.png" style="float: left;" alt="" />
+<p class="footnote">Ps. <em>pulu</em> is a Finnish word and it means <a href="https://en.wikipedia.org/wiki/Columbidae">pigeon</a>, the bird in the logo.</p>
 
-  <div style="margin-left: 50px; padding: 3px; text-align: justify; border: 2px solid #000; background-color: #d6da64">
+                </div>
 
-<p style="margin: 0px;">
-pulu.org domain was created and registered in the 13th February 2002 by Lassi Heikkinen aka Abula. Pulu is Finnish and means a pigeon (the bird in the picture).
-</p>
+<p class="copyright">(c) <a href="http://pulu.org/lassi/">Lassi Heikkinen</a>, 2002-2015</p>
 
-<p style="margin-bottom: 0px;">
-The above photograph is taken by mr.
-</p>
+            </div>
+        </div>
 
-  </div>
-
-
-</div>
-
-
-<!--
-<div style="width: 200px;">
-<br />
-  <img src="links.png" style="float: left;" alt="" />
-
-  <div style="margin-left: 50px; padding: 3px; border: 2px solid #000; background-color: #bfa685">
-
-
-<p style="margin: 0px;">
-- <a title="Rather big site decicated for a game named Elasto Mania." href="http://www.moposite.com">Moposite</a><br />
-- <a title="Projects by Lassi Heikkinen" href="http://www.pulu.org/pro">Puluprojects</a><br />
-- <a title="Blog of Elma and personal life." href="http://www.pulu.org/blog">Applelane</a><br />
-- <a title="Lassi's personal homepage" href="http://www.pulu.org/lassi">Lassite</a><br />
-- <a title="A rock band page whose members are friends of Lassi." href="http://www.luminapolaris.net/">Lumina Polaris</a><br />
-- <a title="A studies page of gynecology and obstetrics of Oulu university." href="http://www.oulugyn.net/">Naisen elämänkaari</a><br />
-<br />
-- <a title="A collection of old web pages made by me, not all-inclusive." href="http://www.pulu.org/vanha">Old pages</a>
-</p>
-
-
-<p style="margin-bottom: 0px;">
-<b>Progressing</b><br />
-- <a title="A picture gallery." href="http://www.otit.fi/~krabula/gallery">Pulukuvasto</a><br />
-- <a title="Lassi's personal homepage" href="http://www.pulu.org/lassi">Lassite3</a><br />
-</p>
-
-<p style="margin-bottom: 0px;">
-<b>Retired</b><br />
-- <a title="An interesting hobby to collect pictures of all the Finnish municipality signs." href="http://www.pulu.org/kuntakulma">Kuntakulma</a><br />
-- <a title="An older version of the personal homepage of Lassi. Yet, it's not half done." href="http://www.pulu.org/lassite">Lassite</a><br />
-- <a title="Lassi's personal homepage; has more information about the web sites." href="http://www.pulu.org/lassite2">Lassite2</a><br />
-- <a title="An attempt to save the world." href="http://www.pulu.org/tupakka">Tupakka ympärillämme</a><br />
-- <a title="An inside page of the friends of our gang, in the past." href="http://www.pulu.org/seppolaakso">Seppolaakso</a><br />
-</p>
--->
-  </div>
-
-</div>
-
-<div style="margin-top: 10px; width: 604px; text-align: right;"><img src="logo_060809.gif" alt="pulu.org logo" /></div>
-
-</body>
+    </body>
 </html>

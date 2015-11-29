@@ -64,8 +64,9 @@ a:hover	    {text-decoration: none;}
     <body>
 
         <div id="logo-container"><img src="/logo-pigeon.png" alt="pulu.org logo" /></div>
-            <div id="right-column-container">
-                <div id="content-container">
+
+        <div id="right-column-container">
+            <div id="content-container">
 
 <h2>Active sites under <strong class="highlighter">pulu.org</strong></h2>
 <ul>
@@ -81,11 +82,10 @@ a:hover	    {text-decoration: none;}
 
 <p class="footnote">Ps. <em>pulu</em> is a Finnish word and it means <a href="https://en.wikipedia.org/wiki/Columbidae">pigeon</a>, the bird in the logo.</p>
 
-                </div>
+            </div>
 
 <p class="copyright">(c) <a href="http://pulu.org/lassi/">Lassi Heikkinen</a>, 2002-2015</p>
 
-            </div>
         </div>
 
     </body>

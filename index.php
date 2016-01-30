@@ -73,7 +73,7 @@ a:hover	    {text-decoration: none;}
     <li><a href="http://lassi.pulu.org/" title="Lassi's personal site">Lassite</a> <span class="since" title="The site has been running since">since 2000</span></li>
     <li><a href="http://www.moposite.com/" title="A site dedicated to Elasto Mania game">Moposite</a> <span class="since" title="The site has been running since">2000</span></li>
     <li><a href="http://pulu.org/blog/" title="Lassi's personal blog">Applelane</a> <span class="since" title="The site has been running since">2005</span></li>
-    <li><a href="http://palsta.pulu.org/" title="Lassi's projects and articles">Pulupalsta</a> <span class="since" title="The site has been running since">2006</span></li>
+    <li><a href="http://palsta.pulu.org/" title="Lassi's projects and articles">Palsta</a> <span class="since" title="The site has been running since">2006</span></li>
     <li><a href="http://liikuntoilu.net/" title="API to historical sport exercicing data">Liikuntoilu</a> <span class="since" title="The site has been running since">2006</span></li>
     <li><a href="http://ulko-ovimiehet.liikuntoilu.net/" title="Outdoorsmen's sport competition">Ulko-ovimiehet</a> <span class="since" title="The site has been running since">2007</span></li>
     <li><a href="http://unski.pulu.org/onki/" title="Johanna's fishing blog">Onki</a> <span class="since" title="The site has been running since">2009</span></li>
@@ -84,7 +84,7 @@ a:hover	    {text-decoration: none;}
 
             </div>
 
-<p class="copyright">(c) <a href="http://pulu.org/lassi/">Lassi Heikkinen</a>, 2002-2015</p>
+<p class="copyright">(c) <a href="http://lassi.pulu.org/">Lassi Heikkinen</a>, 2002-2016</p>
 
         </div>
 

@@ -76,15 +76,13 @@ a:hover	    {text-decoration: none;}
     <li><a href="http://palsta.pulu.org/" title="Lassi's projects and articles">Palsta</a> <span class="since" title="The site has been running since">2006</span></li>
     <li><a href="http://liikuntoilu.net/" title="API to historical sport exercicing data">Liikuntoilu</a> <span class="since" title="The site has been running since">2006</span></li>
     <li><a href="http://ulko-ovimiehet.liikuntoilu.net/" title="Outdoorsmen's sport competition">Ulko-ovimiehet</a> <span class="since" title="The site has been running since">2007</span></li>
-    <li><a href="http://unski.pulu.org/onki/" title="Johanna's fishing blog">Onki</a> <span class="since" title="The site has been running since">2009</span></li>
-    <li><a href="http://rohtologi.pulu.org/" title="Johanna's pharmaceutical blog">Rohtologi</a> <span class="since" title="The site has been running since">2010</span></li>
 </ul>
 
 <p class="footnote">Ps. <em>pulu</em> is a Finnish word and it means <a href="https://en.wikipedia.org/wiki/Columbidae">pigeon</a>, the bird in the logo.</p>
 
             </div>
 
-<p class="copyright">(c) <a href="http://lassi.pulu.org/">Lassi Heikkinen</a>, 2002-2016</p>
+            <p class="copyright">(c) <a href="http://lassi.pulu.org/">Lassi Heikkinen</a>, 2002-<?= date('Y') ?></p>
 
         </div>
 

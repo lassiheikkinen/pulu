@@ -68,11 +68,10 @@ a:hover	    {text-decoration: none;}
         <div id="right-column-container">
             <div id="content-container">
 
-<h2>Active sites under <strong class="highlighter">pulu.org</strong></h2>
+<h2>Active sites behind <strong class="highlighter">pulu.org</strong></h2>
 <ul>
     <li><a href="http://lassi.pulu.org/" title="Lassi's personal site">Lassite</a> <span class="since" title="The site has been running since">since 2000</span></li>
     <li><a href="http://www.moposite.com/" title="A site dedicated to Elasto Mania game">Moposite</a> <span class="since" title="The site has been running since">2000</span></li>
-    <li><a href="http://pulu.org/blog/" title="Lassi's personal blog">Applelane</a> <span class="since" title="The site has been running since">2005</span></li>
     <li><a href="http://palsta.pulu.org/" title="Lassi's projects and articles">Palsta</a> <span class="since" title="The site has been running since">2006</span></li>
     <li><a href="http://liikuntoilu.net/" title="API to historical sport exercicing data">Liikuntoilu</a> <span class="since" title="The site has been running since">2006</span></li>
     <li><a href="http://ulko-ovimiehet.liikuntoilu.net/" title="Outdoorsmen's sport competition">Ulko-ovimiehet</a> <span class="since" title="The site has been running since">2007</span></li>
